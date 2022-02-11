@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Resources
+  - Enemy
+  - AreaDoor
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Enemy
+  - Player
+  - Resources
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 1139194709
+    locked: 0
+  - name: DoorsClosed
+    uniqueID: 2302771117
+    locked: 0
+  - name: DoorsOpen
+    uniqueID: 104215163
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Floor
+    uniqueID: 3546836089
+    locked: 0
+  - name: Walls
+    uniqueID: 2400005537
+    locked: 0
+  - name: Obstacles
+    uniqueID: 4260483983
+    locked: 0
+  - name: Player
+    uniqueID: 1657262687
+    locked: 0
+  - name: Overgrown
+    uniqueID: 2387274763
+    locked: 0
+  - name: Foreground
+    uniqueID: 2609751939
+    locked: 0
+  - name: UI
+    uniqueID: 701551429
+    locked: 0
